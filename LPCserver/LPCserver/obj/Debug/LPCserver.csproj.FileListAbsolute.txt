@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\bin\Debug\LPCserver.exe.config
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\bin\Debug\LPCserver.exe
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\bin\Debug\LPCserver.pdb
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\obj\Debug\LPCserver.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\obj\Debug\LPCserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\obj\Debug\LPCserver.Form1.resources
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\obj\Debug\LPCserver.Properties.Resources.resources
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\obj\Debug\LPCserver.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\obj\Debug\LPCserver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\obj\Debug\LPCserver.exe
+C:\Users\Administrator\source\repos\LPCserver\LPCserver\obj\Debug\LPCserver.pdb

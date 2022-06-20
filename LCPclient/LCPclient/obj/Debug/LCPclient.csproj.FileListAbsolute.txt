@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\bin\Debug\LCPclient.exe.config
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\bin\Debug\LCPclient.exe
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\bin\Debug\LCPclient.pdb
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\obj\Debug\LCPclient.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\obj\Debug\LCPclient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\obj\Debug\LCPclient.Form1.resources
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\obj\Debug\LCPclient.Properties.Resources.resources
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\obj\Debug\LCPclient.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\obj\Debug\LCPclient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\obj\Debug\LCPclient.exe
+C:\Users\Administrator\source\repos\LCPclient\LCPclient\obj\Debug\LCPclient.pdb

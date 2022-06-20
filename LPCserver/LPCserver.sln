@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPCserver", "LPCserver\LPCserver.csproj", "{F6F3A6E4-5D34-4F40-A12C-0FE8492D6ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F3A6E4-5D34-4F40-A12C-0FE8492D6ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F3A6E4-5D34-4F40-A12C-0FE8492D6ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F3A6E4-5D34-4F40-A12C-0FE8492D6ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F3A6E4-5D34-4F40-A12C-0FE8492D6ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFCCF00-74EB-4E39-8FF9-2625DD3E1B27}
+	EndGlobalSection
+EndGlobal
